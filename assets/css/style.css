@@ -35,11 +35,12 @@ main {
 .area-card {
   width: 300px;
   height: 530px;
-  border: 7px solid #000;
+  border: 15px solid #000;
   border-top: 40px solid #000;
   border-radius: 10px;
   position: relative;
   background: linear-gradient(135deg, #141e30, #243b55);
+  box-shadow:2px 2px 5px #00000081;
 }
 
 .btn-botoes-styles {
